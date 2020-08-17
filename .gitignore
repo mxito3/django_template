@@ -1,0 +1,9 @@
+venv/
+**/__pycache__/
+.pytest_cache/
+nohup.out
+test
+*.pyc
+.DS_Store
+error.json
+result.json%
